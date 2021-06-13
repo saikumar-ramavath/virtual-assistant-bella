@@ -14,7 +14,8 @@ Bella is a virtual assistant, created to make people life easier
 - To turn off bella, you can say **goodbye, exit, bella sleep, exit** or **quit** 
 
 - By this command  (**bella exit, goodbye**)  bella goes to sleep mode,
-and it will not respond you, but the program is active in background
+and it will not respond your commands, unless you say **activate** or **activate bella**.
+- program is active in background
 so that you no need to restart bella again manually whenever you need.
 
 ---
